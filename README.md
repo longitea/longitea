@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **longitea/longitea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+# Hi there 👋
 🔭 I'm currently working for myself<br>👯 I’m looking to collaborate on github<br>🤝 I am looking for help with anyone who want<br>🌱 I’m currently learning a lot ...<br>💬 Ask me about everything<br>⚡ Fun fact, I'm Dragon
 
 
