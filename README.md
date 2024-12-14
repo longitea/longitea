@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/longitea"
-  width="600"
-  height="300"
-/>
-</a>
-
 # Hi there 👋
 🔭 I'm currently working for myself<br>👯 I’m looking to collaborate on github<br>🤝 I am looking for help with anyone who want<br>🌱 I’m currently learning a lot ...<br>💬 Ask me about everything<br>⚡ Fun fact, I'm Dragon
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/longitea"
+  width="1000"
+  height="300"
+/>
+</a>
